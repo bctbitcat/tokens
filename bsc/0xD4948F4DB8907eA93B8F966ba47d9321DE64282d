@@ -1,0 +1,11 @@
+{
+  "name": "Bitcat",
+  "website": "https://bscscan.com/token/0xd4948f4db8907ea93b8f966ba47d9321de64282d",
+  "description": "Bitcat is an innovative blockchain platform designed to enhance the Bitcoin blockchain's transaction speed and reduce transaction costs while maintaining high decentralization and security. In homage to Satoshi Nakamoto's vision, Bitcat proposes an open and transparent development model where all project decisions are made by global community members through voting.",
+  "explorer": "https://bscscan.com/token/0xd4948f4db8907ea93b8f966ba47d9321de64282d",
+  "type": "BEP20",
+  "symbol": "BCT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xD4948F4DB8907eA93B8F966ba47d9321DE64282d"
+}
